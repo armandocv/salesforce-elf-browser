@@ -39,6 +39,8 @@ gem 'puma', '3.11.3'
 gem 'omniauth-salesforce'
 gem 'databasedotcom'
 
+gem 'json', '1.8.5'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
